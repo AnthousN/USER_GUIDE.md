@@ -5,6 +5,8 @@
 3. [FAQ](#faq)
 
 # 1. Utilisation de base
+<span id="utilisation-de-base"></span>(https://docs.rocket.chat/docs/access-your-workspace)
+
 # 2 Utilisation avancée
 <span id="utilisation-avancee"></span>(https://docs.rocket.chat/docs/administrators-guide)
 
