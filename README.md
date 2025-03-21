@@ -6,7 +6,7 @@
 
 # 1. Utilisation de base
 # 2 Utilisation avancée
-<span id="utilisation-avancee"></span>[Guide d'utilisation avancée](https://docs.rocket.chat/docs/administrators-guide)
+<span id="utilisation-avancee"></span>(https://docs.rocket.chat/docs/administrators-guide)
 
 
 
