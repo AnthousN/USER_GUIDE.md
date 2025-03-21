@@ -13,4 +13,4 @@
 
 
 # 3 FAQ
-<span id="faq"></span>
+<span id="faq"></span>(https://docs.rocket.chat/docs/snaps-faq)
